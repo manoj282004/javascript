@@ -1,7 +1,7 @@
 let val="manoj";
 
 // string 
-// null
+// null it is standalone value
 // undefined
 // number
 // boolean
